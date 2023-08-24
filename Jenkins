@@ -10,7 +10,7 @@ pipline {
                  //checkout the repository
                   checkout scm
                        
-}
-}
-}
+            }
+        }
+    }
 }
